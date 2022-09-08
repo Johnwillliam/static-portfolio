@@ -65,7 +65,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 favicon = "images/favicon.png"
 logo_light = "images/michaeltan-logo.png"
 logo_dark = "images/michaeltan-logo.png"
-logo_width = "500px"
+logo_width = "100px"
 # Meta data
 description = "This is meta description"
 author = "MichaelTan"
