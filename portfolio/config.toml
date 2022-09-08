@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 title = "MichaelTan"
-theme = "StaticPortfolio"
+theme = "../.."
 # post pagination
 paginate = "6"
 # post excerpt
