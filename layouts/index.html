@@ -148,10 +148,10 @@
 
             <!-- Start Testimonials -->
             {{ with .GetPage "testimonial"}}
-            <div class="col-lg-6 col-sm-6 col-9 about-me-images align-right">
+            <div class="col-lg-6 col-sm-6 col-9 about-me-images wow fadeInUp" data-wow-duration="1.5s">
                   <div class="testimonials-container col-lg-12">
                     <h1>{{ .Title | markdownify }}</h1>
-                    <div class="owl-carousel owl-theme">
+                    <div class="owl-carousel owl-theme wow fadeInUp" data-wow-duration="1.5s">
                       {{ range .Params.testimonial_slider }}
                       <div class="single-testimonial">
                         <div class="testimonial-holder">

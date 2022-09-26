@@ -62,7 +62,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
+favicon = "images/michaeltan-logo.png"
 logo_light = "images/michaeltan-logo.png"
 logo_dark = "images/michaeltan-logo.png"
 logo_width = "100px"
