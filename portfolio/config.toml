@@ -119,12 +119,6 @@ url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"

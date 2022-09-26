@@ -7,6 +7,16 @@ contactbutton:
   label : "CONTACT ME"
   link : "#contact"
 
+title : "I'm Michael Tan"
+# full screen navigation
+first_name : "Michael"
+last_name : "Tan"
+occupations:
+- "Software Engineer"
+- "Databases"
+- "API's"
+- "Automation"
+
 # button
 cvbutton:
   enable : true
@@ -28,7 +38,7 @@ experience:
     - name : "Software Engineer"
       company : "Profit4Cloud (secondment) - Yokogawa"
       duration : "2021 - 2022"
-      content : "Software development Java and C in Yokogawa’s SCADA
+      content : "Software development Java and C for Yokogawa’s SCADA
       application."
 
     - name : "Software Engineer"
@@ -71,4 +81,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-I'm Michael Tan, a Software Engineer. I have experience in multiple sectors and multiple languages, from pure code development to databases.<br><br>Please contact me to discuss your project and the possibilities that we can achieve together!
+I'm Michael Tan, a Software Engineer. I have experience in multiple sectors and multiple programming languages, from pure code development to databases.<br><br>Please contact me to discuss your project and the possibilities that we can achieve together!
